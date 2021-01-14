@@ -4,7 +4,7 @@ The problem statement is to recognize the weather condition in the given picture
 For some image recognition tasks or computer vision studies, intuitionand illumination kinds of difficulties may cause unexpected results. It can be tricky to define weather conditions from a given scene. Even human eyes and brain can be insufficient to recognize weather patterns.
 That’s where an image recognition model can be helpful.
 
-# Dataset description:
+## Dataset description:
 The dataset used in this project has images divided into 5 classes:
 1. Cloudy
 2. Sunny
