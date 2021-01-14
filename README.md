@@ -14,13 +14,13 @@ The dataset used in this project has images divided into 5 classes:
 
 The dataset contains a lot more images for cloudy and sunny weather than for the other 3 classes.
 
-# Steps followed for weather prediction:
+## Steps followed for weather prediction:
 1. Feature Extraction
 2. Fitting pre-trained models
 3. Training on LeNet5
 4. Training on AlexNet
 
-# Feature Extraction:
+## Feature Extraction:
 During feature extraction, the following features of the images were extracted:
 1. Contrast
 2. Brightness
